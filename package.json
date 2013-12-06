@@ -1,6 +1,6 @@
 {
   "name": "passport-campaignmonitor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Campaign Monitor authentication strategy for Passport.",
   "keywords": ["campaignmonitor", "passport", "auth", "authentication"],
   "repository": {
